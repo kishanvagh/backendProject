@@ -1,0 +1,12 @@
+{
+  "name": "backendproject",
+  "version": "1.0.0",
+  "description": "this is learning of backend from chai or code",
+  "license": "ISC",
+  "author": "kishan vaghasiya",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
