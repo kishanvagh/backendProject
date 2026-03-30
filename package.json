@@ -2,11 +2,15 @@
   "name": "backendproject",
   "version": "1.0.0",
   "description": "this is learning of backend from chai or code",
+  "type": "module",
   "license": "ISC",
   "author": "kishan vaghasiya",
-  "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14",
+    "prettier": "^3.8.1"
   }
 }
